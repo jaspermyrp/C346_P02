@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">test app name </string>
+
+    <string name="reg_msg_head">Registration Form</string>
+    <string name="reg_msg_content">Welcome to Adventure Learning Club!</string>
+    <string name="personalinfo">Personal Information</string>
+    <string name="form_fullname">Full Name</string>
+    <string name="form_firstname">First Name</string>
+    <string name="form_lastname">Last Name</string>
+
+    <string name="workxp">Years of work experience</string>
+
+    <string name="address">Full Address</string>
+
+    <string name="dob">Date of Birth (dd/mm/yyyy)</string>
+
+    <string name="gender">Gender</string>
+    <string name="gender_m">Male</string>
+    <string name="gender_f">Female</string>
+
+    <string name="educationlv">Education level</string>
+
+    <string name="otherskill">Other skills</string>
+
+    <string name="lastdrawnsal">Last drawn salary</string>
+
+    <string name="studentid">Student ID</string>
+
+    <string name="school">School</string>
+
+    <string name="email">E-mail</string>
+
+    <string name="phone">Phone</string>
+
+    <string name="register">Register</string>
+
+
+
+
+
+    //Star Job Search (Enhancement)//
+    <string name="starjobsearch">Star Job Search</string>
+    <string name="desc_industry">Choose an industry</string>
+    <string name="desc_job1">Advertising, Branding and Marketing</string>
+    <string name="desc_job2">Biotechnology</string>
+    <string name="desc_job3">Construction</string>
+    <string name="desc_job4">Financial Services, Banking, Insurance, Investments and Mortgages</string>
+    <string name="desc_job5">Computers, Internet and E-commerce</string>
+    <string name="desc_employement">Choose an Employment Type</string>
+    <string name="desc_parttime">Part Time or Contract</string>
+    <string name="desc_fulltime">Full Time</string>
+    <string name="desc_personalinfo">Personal Information</string>
+    <string name="desc_otherinfo">Other Information</string>
+    <string name="desc_lastdrawnsalary">Last drawn salary</string>
+    <string name="desc_summary">Enter summary statement</string>
+    <string name="emailalert">Receive Email alerts?</string>
+    <string name="yes">Yes</string>
+    <string name="submit">Submit Application</string>
+</resources>
